@@ -17,8 +17,12 @@ disableLanguages = [
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 [params]
+# Matomo Analytics
 MATOMO_URL = 'matomo.magehawk.net'
 MATOMO_SITE_ID = '3'
+# Matomo Tag Manager
+MATOMO_TAG_CONTAINER_ID = '7oKNneWI'
+# Google Tag Manager
 GTM_ID = 'GTM-P2CPL4SM'
 
 # google analytics
