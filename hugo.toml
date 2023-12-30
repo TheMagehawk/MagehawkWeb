@@ -18,6 +18,7 @@ hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/K
 
 [params]
 MATOMO_URL = 'matomo.magehawk.net'
+MATOMO_SITE_ID = '3'
 GTM_ID = 'GTM-P2CPL4SM'
 
 # google analytics
